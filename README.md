@@ -33,13 +33,13 @@ Perfect practice beats repetition. Practicing something incorrectly only reinfor
 ## Featured projects (auto-detected placeholders)
 I will auto-detect and list top public repositories here. If you prefer specific projects, tell me their names or URLs and I will update this section.
 
-### Project 1 — short one-line summary
+### Project 1 - anolog clock app for windows
 - Tech: (e.g., Python)
 - Repo: https://github.com/GrantRuffner16301/REPO-1
 - Summary:
-  - Bullet 1: what it does
-  - Bullet 2: your role / what you implemented
-  - Bullet 3: key takeaway or lesson learned
+  - Bullet 1: Working floating analog clock
+  - Bullet 2: I built
+  - Bullet 3: clean design
 - Demo / screenshot: ./assets/project-1.gif
 
 ### Project 2 — short one-line summary
